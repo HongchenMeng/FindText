@@ -1,0 +1,5 @@
+E:\my\Source\Code\FindText\FindText\bin\Debug\FindText.exe.config
+E:\my\Source\Code\FindText\FindText\bin\Debug\FindText.exe
+E:\my\Source\Code\FindText\FindText\bin\Debug\FindText.pdb
+E:\my\Source\Code\FindText\FindText\obj\Debug\FindText.exe
+E:\my\Source\Code\FindText\FindText\obj\Debug\FindText.pdb
